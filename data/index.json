@@ -1,0 +1,122 @@
+{
+ "AAPL": {
+  "file": "AAPL.json",
+  "name": "Apple",
+  "cur": "USD",
+  "from": "2000-01-03",
+  "to": "2026-10-05",
+  "n": 6729
+ },
+ "AMZN": {
+  "file": "AMZN.json",
+  "name": "Amazon",
+  "cur": "USD",
+  "from": "2000-01-03",
+  "to": "2026-10-05",
+  "n": 6729
+ },
+ "BTC-USD": {
+  "file": "BTC-USD.json",
+  "name": "Bitcoin",
+  "cur": "USD",
+  "from": "2014-09-17",
+  "to": "2026-10-06",
+  "n": 4403
+ },
+ "ETH-USD": {
+  "file": "ETH-USD.json",
+  "name": "Ethereum",
+  "cur": "USD",
+  "from": "2017-11-09",
+  "to": "2026-10-06",
+  "n": 3254
+ },
+ "GLD": {
+  "file": "GLD.json",
+  "name": "זהב (GLD)",
+  "cur": "USD",
+  "from": "2004-11-18",
+  "to": "2026-10-05",
+  "n": 5503
+ },
+ "ILS=X": {
+  "file": "ILSX.json",
+  "name": "דולר/שקל",
+  "cur": "ILS",
+  "from": "2003-12-01",
+  "to": "2026-10-06",
+  "n": 5926
+ },
+ "MSFT": {
+  "file": "MSFT.json",
+  "name": "Microsoft",
+  "cur": "USD",
+  "from": "2000-01-03",
+  "to": "2026-10-05",
+  "n": 6729
+ },
+ "NVDA": {
+  "file": "NVDA.json",
+  "name": "NVIDIA",
+  "cur": "USD",
+  "from": "2000-01-03",
+  "to": "2026-10-05",
+  "n": 6729
+ },
+ "QQQ": {
+  "file": "QQQ.json",
+  "name": "Invesco QQQ (Nasdaq-100)",
+  "cur": "USD",
+  "from": "2000-01-03",
+  "to": "2026-10-05",
+  "n": 6729
+ },
+ "SPY": {
+  "file": "SPY.json",
+  "name": "SPDR S&P 500 ETF",
+  "cur": "USD",
+  "from": "2000-01-03",
+  "to": "2026-10-05",
+  "n": 6729
+ },
+ "TA35.TA": {
+  "file": "TA35_TA.json",
+  "name": "ת\"א 35",
+  "cur": "ILS",
+  "from": "2000-01-03",
+  "to": "2026-10-06",
+  "n": 5286
+ },
+ "TLT": {
+  "file": "TLT.json",
+  "name": "אג\"ח ארה\"ב ארוכות (TLT)",
+  "cur": "USD",
+  "from": "2002-07-30",
+  "to": "2026-10-05",
+  "n": 6085
+ },
+ "TSLA": {
+  "file": "TSLA.json",
+  "name": "Tesla",
+  "cur": "USD",
+  "from": "2010-06-29",
+  "to": "2026-10-05",
+  "n": 4092
+ },
+ "^GSPC": {
+  "file": "GSPC.json",
+  "name": "S&P 500 (מדד)",
+  "cur": "USD",
+  "from": "2000-01-03",
+  "to": "2026-10-05",
+  "n": 6729
+ },
+ "^TA125.TA": {
+  "file": "TA125_TA.json",
+  "name": "ת\"א 125",
+  "cur": "ILS",
+  "from": "2000-01-03",
+  "to": "2026-10-06",
+  "n": 6081
+ }
+}
